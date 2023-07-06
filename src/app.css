@@ -4,8 +4,13 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --navHeight: theme('space.24');
+}
+
 body {
   background-color: theme('colors.primary');
   color: white;
   font-family: theme('fontFamily.sans');
+  padding-top: var(--navHeight);
 }
