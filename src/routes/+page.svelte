@@ -11,7 +11,7 @@
     <img class="h-full w-full object-cover" src="{bgMobile}" alt="Space View of Earth">
   </picture>
 
-  <div class="container mx-auto flex lg:justify-around items-center lg:items-end z-0 relative min-h-screen md:pb-24 lg:pb-32 lg:flex-row flex-col justify-start text-center lg:text-left md:pt-24">
+  <div class="container mx-auto flex lg:justify-around items-center lg:items-end z-0 relative min-h-screen md:pb-24 lg:pb-32 lg:flex-row flex-col justify-start text-center lg:text-left pt-[--navHeight]">
     <div class="w-min">
       <h2 class="uppercase text-xl/tight text-secondary mb-6 tracking-widest">
         So, you want to travel to

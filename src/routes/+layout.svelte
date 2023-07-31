@@ -1,4 +1,5 @@
 <script>
+  import '../app.css';
   import logo from '../assets/shared/logo.svg'
   import close from '../assets/shared/icon-close.svg'
   import hamburger from '../assets/shared/icon-hamburger.svg'
@@ -23,3 +24,5 @@
     height: var(--navHeight);
   }
 </style>
+
+<slot />

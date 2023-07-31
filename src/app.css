@@ -12,5 +12,4 @@ body {
   background-color: theme('colors.primary');
   color: white;
   font-family: theme('fontFamily.sans');
-  padding-top: var(--navHeight);
 }
